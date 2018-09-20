@@ -1,0 +1,49 @@
+{
+  "projects": [
+    {
+      "id": 0,
+      "project_name": "Random quote generator",
+      "description": "Single page app that generates random quotes",
+      "technologies": ["HTML", "CSS", "JS"],
+      "live_link": "https://4high20.github.io/a_random_quote_generator-v1/",
+      "github_link": "https://github.com/4high20/a_random_quote_generator-v1",
+      "image_urls": ["/static/images/project1/main.png", "/static/images/project1/1.png", "/static/images/project1/2.png"]
+    },
+    {
+      "id": 1,
+      "project_name": "List pagination and filtering",
+      "description": "List of students divided by page with the possibility to search by name",
+      "technologies": ["HTML", "CSS", "JS"],
+      "live_link": "https://4high20.github.io/list_pagination_and_filtering-v1/",
+      "github_link": "https://github.com/4high20/list_pagination_and_filtering-v1",
+      "image_urls": ["/static/images/project2/main.png", "/static/images/project2/1.png", "/static/images/project2/2.png"]
+    },
+    {
+      "id": 2,
+      "project_name": "Interactive form",
+      "description": "An interactive form to register to a dev conference",
+      "technologies": ["HTML", "CSS", "JS"],
+      "live_link": "https://4high20.github.io/interactive-form-v1/",
+      "github_link": "https://github.com/4high20/interactive-form-v1",
+      "image_urls": ["/static/images/project3/main.png", "/static/images/project3/1.png", "/static/images/project3/2.png"]
+    },
+    {
+      "id": 3,
+      "project_name": "Tic tac toe",
+      "description": "tic tac toe game to play vs a friend or vs AI",
+      "technologies": ["HTML", "CSS", "JS"],
+      "live_link": "https://4high20.github.io/tic-tac-toe-v3/",
+      "github_link": "https://github.com/4high20/tic-tac-toe-v3",
+      "image_urls": ["/static/images/project4/main.png", "/static/images/project4/1.png", "/static/images/project4/2.png"]
+    },
+    {
+      "id": 4,
+      "project_name": "Public API request",
+      "description": "Random employee directory fetched trough an API",
+      "technologies": ["HTML", "CSS", "JS"],
+      "live_link": "https://4high20.github.io/public_api_request-v1/",
+      "github_link": "https://github.com/4high20/public_api_request-v1",
+      "image_urls": ["/static/images/project5/main.png", "/static/images/project5/1.png", "/static/images/project5/2.png"]
+    }
+  ]
+}

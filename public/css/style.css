@@ -148,3 +148,15 @@ a:hover{
 .portfolio-bio{
     line-height: 25px;
 }
+
+h1,h2,h3,h4,h5,p{
+  font-family: 'Courier New';
+}
+
+.portfolio-me{
+  background: #132198;
+}
+
+h1 {
+  color: #132198;
+}

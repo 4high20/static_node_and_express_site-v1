@@ -1,0 +1,24 @@
+{
+  "name": "static_node_and_express_site-v1",
+  "version": "1.0.0",
+  "description": "this project is a static personal portfolio website based on node.js and express framework",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4high20/static_node_and_express_site-v1.git"
+  },
+  "author": "Marco Ruggeri",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/4high20/static_node_and_express_site-v1/issues"
+  },
+  "homepage": "https://github.com/4high20/static_node_and_express_site-v1#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "pug": "^2.0.3"
+  }
+}
